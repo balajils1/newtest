@@ -1,0 +1,2 @@
+[lfs]
+	url = http://35.234.111.47:8081/artifactory/api/lfs/gitlfs-local
